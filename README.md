@@ -1,11 +1,8 @@
 # Qusay-Qadir
 <h1 align="center">Hey there👋, I am Qusay Qadir.</h1>
-<p>I am currently a second year of Software Engineering at McMaster University in Ontario, Canada. My main focus for the upcoming years is to eventually break into FinTech, and to do so I am always open to sharing insights, having a general conversation, and committing to projects that can build my necessary skills.</p>
 
 
-
-
-- 📫 Contact me anytime by email **qusayqadir78@gmail.com**
+- 📫 Contact me anytime by email **qadirq@mcmaster.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
